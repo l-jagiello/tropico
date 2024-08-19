@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Włoska Przygoda",
+      "description": "Włoska Przygoda to niezapomniana podróż, pełna wrażeń kulinarnych, artystycznych i historycznych. Od zwiedzania starożytnych ruin Rzymu, przez romantyczne kanały Wenecji, po malownicze krajobrazy Toskanii – każdy region oferuje wyjątkowe doznania.",
+      "imgSrc": "italy.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Francuskie Przeżycia",
+      "description": "Francuskie Przeżycia to podróż do serca europejskiej kultury i sztuki. Od majestatycznego Paryża z jego ikoniczną Wieżą Eiffla i Luwrem, po urokliwe winnice Bordeaux i malownicze wybrzeża Lazurowego Wybrzeża – Francja oferuje różnorodność atrakcji.",
+      "imgSrc": "france.jpg"
+    },
+    {
+      "title": "Moja Wielka Grecka Wycieczka",
+      "description": "Niczym bohaterowie 'Mojej Wielkiej Greckiej Wycieczki', czeka cię podróż pełna odkryć i niezapomnianych momentów. Od zabytkowych ruin Aten, przez magiczne wyspy Santorini i Mykonos, po mistyczne Meteory – Grecja oczarowuje swoim bogactwem historycznym i naturalnym pięknem.",
+      "imgSrc": "greece.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Australijskie Wojaże",
+      "description": "Australijskie Wojaże to wyjątkowa okazja, by odkryć różnorodne krajobrazy, od miejskiego uroku Sydney po surową dzikość Outbacku. Wędrując po jej bezkresnych przestrzeniach, można spotkać unikalną przyrodę i doświadczyć niesamowitej kultury.",
+      "imgSrc": "australia.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Życie w Kraju Kwitnącej Wiśni",
+      "description": "Życie w Kraju Kwitnącej Wiśni jest pełne kontrastów, gdzie tradycja harmonijnie współistnieje z nowoczesnością. Wycieczka do Japonii to podróż przez zabytkowe świątynie, tętniące życiem miasta i przepiękne krajobrazy, które zachwycają na każdym kroku.",
+      "imgSrc": "japan.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tropiki Madakaskaru",
+      "description": "Madagaskar to wymarzone miejsce na tropikalny wypoczynek, gdzie możesz relaksować się na dziewiczych plażach otoczonych bujną roślinnością. Wyspa oferuje niezapomniane przygody, od nurkowania w turkusowych wodach po odkrywanie unikalnej przyrody i egzotycznych gatunków.",
+      "imgSrc": "madagascar.jpg"
+    }
+  ]
+  
